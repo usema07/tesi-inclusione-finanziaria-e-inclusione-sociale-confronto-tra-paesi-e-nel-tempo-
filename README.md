@@ -3,7 +3,7 @@
 Questo archivio contiene il codice e i dati utilizzati per la mia tesi di laurea quantitativa basata sul database Global Findex della Banca Mondiale.
 
 ## 📌 Obiettivo della Ricerca
-L'obiettivo dello studio è analizzare empiricamente ka relazione tra inclusione finanziari e risparmio per la vecchiaia mettendo a confronto diversi Paesi in un arco temporale.
+L'obiettivo dello studio è analizzare empiricamente la relazione tra inclusione finanziari e risparmio per la vecchiaia mettendo a confronto diversi Paesi in un arco temporale.
 
 ## 📊 Dati e Metodologia
 - *Fonti Dati:* Global Findex Database 2025 (Banca Mondiale).
